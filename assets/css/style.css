@@ -29,12 +29,12 @@ h4, h5, h6 {
   background-color: rgba(234,0,39,0.7);
 }
 
-bottom-trash-drag {
+.bottom-trash-drag {
   transform: translateY(0);
   opacity: 1;
 }
 
-bottom-trash-active {
+.bottom-trash-active {
   background-color: rgba(234,0,39,1)
 }
 
